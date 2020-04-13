@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CameraFollow.cs" />
+    <Compile Include="Assets\PlayerCollision.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Mike/Desktop/Projects/How_to_Make_a_Game_Brackeys/Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
